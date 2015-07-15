@@ -9,3 +9,4 @@
 * logout, login
 * scrolling is un-natural
 * thus there is a tweam somewhere deep, braking _Natural scrolling_ option as it is implemented in Mouse & Touchpad
+* for me unchecking _Natural scrolling_ allows to use this beharior
