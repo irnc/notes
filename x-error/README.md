@@ -1,5 +1,4 @@
 * [error](error.png) seen after graphical login on Ubuntu 15.04
-* 00:30 start solving issue
 * error happens because of `xinput set-prop 12 274 -106 -106 # Reverse scroll, i.e. make it a natural scroll`
 * until 15.04 this command allowed to have natural scrolling on touchpad
 * removing this command prevents error
