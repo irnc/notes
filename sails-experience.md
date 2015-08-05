@@ -45,3 +45,8 @@ Make sure it is triggering its `initialize()` callback, or else set `sails.confi
   at [object Object].tooLong [as _onTimeout] (/home/pavel/.nvm/v0.12.2/lib/node_modules/sails/lib/app/private/loadHooks.js:92:21)
   at Timer.listOnTimeout (timers.js:110:15)
 ```
+
+* set `migrate: 'drop'` for development, it may be a good practice to interrupt to educate developer on data question
+* read http://sailsjs.org/documentation/reference/blueprint-api
+* http://localhost:1337/phone/create?number=23-12-23 via GET creates new resorce... ok it is Shortcut route, see previouse link
+* 
