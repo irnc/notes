@@ -2,7 +2,7 @@ I need to run [JOSM][2] on Ubuntu.
 
 [2]: https://josm.openstreetmap.de/
 
-Easies way seems to use [JNLP file][3], instead of downloading `.jar` file.
+Easiest way seems to use [JNLP file][3], instead of downloading `.jar` file.
 
 [3]: https://josm.openstreetmap.de/download/josm.jnlp
 
