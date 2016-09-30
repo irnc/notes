@@ -1,0 +1,2 @@
+- https://www.jetbrains.com/help/webstorm/2016.2/running-npm-scripts.html
+- see `$NODE_DEBUG_OPTION`

@@ -1,0 +1,2 @@
+- http://kubernetes.io/docs/getting-started-guides/kubeadm/#limitations
+- https://github.com/openai/kubernetes-ec2-autoscaler
