@@ -8,7 +8,6 @@
 1. https://github.com/npm/how-to-npm
 1. https://github.com/substack/stream-adventure
 
-
 ### Web server
 
 1. https://github.com/azat-co/expressworks
@@ -20,6 +19,10 @@
 1. https://github.com/finnp/test-anything
 1. https://github.com/othiym23/bug-clinic
 1. https://github.com/joyent/node-debug-school
+
+### MongoDB
+
+1. https://github.com/evanlucas/learnyoumongo
 
 ### JavaScript
 
