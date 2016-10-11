@@ -55,11 +55,12 @@ This is a data structure used in SQL examples at a next step. All good from
 _stream sample_ view, but it fails to work with any SQL of examples. Error is
 `Column 'SECTOR' not found in any table`.
 
-Trial and error showed that _Analytics_ converts SQL column names to be all
-upper case because it reaches some query execution engine. Thus no luck looking
-for `SECTOR` when `sector` is provided.
+Trial and error showed that _Analytics_ converts column names used in SQL
+statement to be all upper case before they reach some query execution engine.
+Thus no luck looking for `SECTOR` when `sector` is provided.
 
-Workaround: define schema manually and use `UPPER_CASE` for column names.
+Apparently column names are case-sensitive. Workaround: define schema manually
+and use `UPPER_CASE` for column names.
 
 ## What syntax is it?
 
