@@ -1,0 +1,4 @@
+- https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-695-0409A-27A,_Warschauer_Aufstand,_Posten_auf_Eisenbahnbr%C3%BCcke.jpg
+- https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-695-0409A-30A,_Warschauer_Aufstand,_Kr%C3%A4der_auf_Br%C3%BCcke.jpg
+- https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bundesarchiv_Bild_101I-695-0409A-29A,_Warschauer_Aufstand,_PKW_auf_Br%C3%BCcke.jpg
+  - Ein deutsches Militärfahrzeug überquert eine Brücke in Grodno (10.–15. Juli 1944)
