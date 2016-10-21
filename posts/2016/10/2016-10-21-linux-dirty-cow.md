@@ -1,0 +1,2 @@
+- http://dirtycow.ninja/
+- https://lkml.org/lkml/2016/10/19/860

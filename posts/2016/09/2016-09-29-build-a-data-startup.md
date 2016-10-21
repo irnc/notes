@@ -7,6 +7,15 @@
 
 - http://radar.oreilly.com/2010/10/strata-week-building-data-star.html
 
+### Data Intelligence products
+
+- https://siren.solutions/kibi/
+- Amazon QuickSight
+
+### Data Intelligence projects
+
+- Kibana
+
 ## Data Driven Startup
 
 ## Intersection
