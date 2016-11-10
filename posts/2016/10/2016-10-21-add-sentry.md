@@ -6,6 +6,15 @@
   - add `Raven.config().install()` call before own code
 - see uncaught exceptions reported to Sentry
 
+## Example Code
+
+While `app/index.js` is an entry point, Raven configuration is added to it as:
+
+```js
+const Raven = require('raven-js') ;
+Raven.config('[sentry-public-dsn]').install();
+```
+
 # Sentry is amazing!
 
 Right from the start it captures uncaught exceptions and reports them together
