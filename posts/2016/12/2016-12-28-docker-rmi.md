@@ -20,3 +20,20 @@ Note that it is good to know some shell magic, because there is
 [no support for wildcards][] in Docker.
 
 [no support for wildcards]: https://github.com/docker/docker/issues/17237
+
+## Side note: where `<none>:<none>` images are coming from
+
+`<none>:<none>` images are coming from `docker-compose` building a service
+using a `Dockerfile`. Each command from `Dockerfile` creates an intermediate
+image leaved as cache to be reused by consecutive builds.
+
+If parent image is still available, those untagged images would be removed by
+`docker-compose down --rmi local`. If parent image was rebuild, i.e. under the
+same name, there is different image now, the quickest way to remove these
+untagged images is to [remote the top-most one][], all other will be pruned:
+
+```sh
+docker rmi $(docker images -f "dangling=true" -q)
+```
+
+[remote the top-most one]: http://www.projectatomic.io/blog/2015/07/what-are-docker-none-none-images/
