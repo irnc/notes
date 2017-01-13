@@ -30,3 +30,12 @@ project/
     }
   }
   ```
+
+# Use case: testing application endpoints
+
+- express.js application
+- HTTP endpoints
+- `src/routes.js` module exports routing application
+- express middleware exported from `src/controllers/[plural-entity-name].js`
+- tests in `tests/endpoints/[controller-name].spec.js`
+  - uses `nock` to mock external services
