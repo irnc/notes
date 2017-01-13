@@ -4,6 +4,12 @@
 
 [npm has a new CTO]: http://blog.npmjs.org/post/147604242320/npm-has-a-new-cto
 
+- Field CTO
+  - e.g. [Michael Letschin, Field CTO at Nexenta Systems][Letschin]
+  - https://www.linkedin.com/title/field-cto
+
+[Letschin]: http://geek-whisperers.com/2015/06/the-cto-in-the-field-with-michael-letschin-ep-89/
+
 ## DevOps
 
 - [Making a Super Team][]
