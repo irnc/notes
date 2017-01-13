@@ -1,0 +1,32 @@
+# https://docs.google.com/spreadsheets/d/1BKzoKDyf7cS3VcZ6e5kmSm46iDu27YL8RfEIPlpgPIw/edit#gid=0
+# posts/2016/10/2016-10-05-conferences.md
+
+- names:
+    - Конференция «Разработка ПО»
+    - CEE-SECR
+    - CEE-SEC(R)
+    - SECR
+  website: http://secr.ru/
+  language: ru
+  recurrence: yearly
+  materials:
+    2016: http://2016.secr.ru/lang/ru/program/agenda
+  city: Moscow
+- name: FDConf
+  website: http://fdconf.by/
+  city: Minsk
+  tags:
+    - frontend
+  recurrence: yearly, April
+  materials:
+    2015: https://www.youtube.com/playlist?list=PL4QZF2_KoV8-6Gj198s_VcIM-Nj9c565w
+    2016: https://www.youtube.com/playlist?list=PL4QZF2_KoV8_UQ7Z_8CQ3cWSjQks8Mwuy
+- name: Jet Conference
+  website: http://jetconf.by/
+  city: Minsk
+  recurrence: yearly, April
+  tags:
+    - bigdata
+  materials:
+    2015: http://jetconf.by/#/history
+    2016: http://jetconf.by/#/history
