@@ -4,3 +4,8 @@
 ## October 5
 
 - https://rethinkdb.com/blog/rethinkdb-shutdown/
+
+## RethinkDB's restart as a Linux Foundation project
+
+- February 2017
+- http://www.techrepublic.com/article/rethinkdbs-restart-as-a-linux-foundation-project-leaves-burning-questions-unanswered/
