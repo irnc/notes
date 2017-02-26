@@ -47,3 +47,7 @@ class Temperature {
   }
 }
 ```
+
+## `for...of` statement
+
+- https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/for...of
