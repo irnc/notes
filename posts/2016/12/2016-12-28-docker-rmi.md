@@ -21,6 +21,14 @@ Note that it is good to know some shell magic, because there is
 
 [no support for wildcards]: https://github.com/docker/docker/issues/17237
 
+Upd: Since [docker 1.13](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/) there are new cleanup commands:
+
+`docker system df` will show used space, similar to the unix tool df
+
+`docker system prune` will remove all unused data.
+
+Prune can also be used to clean up just some types of data. For example: `docker volume prune` removes unused volumes only.
+
 ## Side note: where `<none>:<none>` images are coming from
 
 `<none>:<none>` images are coming from `docker-compose` building a service
