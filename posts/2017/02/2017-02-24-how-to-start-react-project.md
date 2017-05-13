@@ -1,8 +1,9 @@
 # Bare Bones
 
-- setup Git repository
 - use `create-react-app` to create application skeleton
-- use `yarn`
+  - setup instructions at https://github.com/facebookincubator/create-react-app
+- initialize local Git repository
+- use `yarn start` and `yarn test`
 - add needed packages: `redux`, `react-redux`, `react-router`, `storybook`
 
 # Presentational Components
